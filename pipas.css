@@ -107,7 +107,7 @@ a {
     flex-direction: column;
     font-size: 20px;
     padding: 60px;
-    background-image: url(/assets/images.jpeg);
+    background-image: url(assets/images.jpeg);
     text-align: center;
     color: whitesmoke;
     height: 25rem;

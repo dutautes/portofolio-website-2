@@ -115,6 +115,7 @@ a {
 
 .jumbotron h1 {
     font-size: 4rem;
+    color: red;
 }
 
 .card {
